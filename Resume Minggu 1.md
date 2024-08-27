@@ -4,4 +4,4 @@
 
 ## RESUME Minggu 1
 
-Kita belajar mengenai apa itu data visualisasi
+Kita belajar mengenai apa itu data visualisasi bersam pak luky
